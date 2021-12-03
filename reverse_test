@@ -1,7 +1,7 @@
 x is a string representing a book of test. The pages are separatd by \b and the lines by \n. 
 
 
-Write a program that reverses the
+Write a function that reverses the
 - order of pages
 - order of lines in each page
 - order of words in each line
