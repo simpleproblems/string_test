@@ -1,9 +1,9 @@
-x is a string representing a book of test. The pages are separatd by \b and the lines by \n. 
-
+x is a string representing a book of text. The pages are separatd by \b. The lines by \n. 
 
 Write a function that reverses the
 - order of pages
 - order of lines in each page
 - order of words in each line
+- don't reverse the characters in each word
 
 Use: online-python.com
