@@ -5,6 +5,5 @@ Write a function that reverses the
 - order of pages
 - order of lines in each page
 - order of words in each line
-- (bonus) order of characters in each word
 
 Use: online-python.com
