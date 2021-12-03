@@ -1,0 +1,11 @@
+x is a string representing a book of test. The pages are separatd by \b and the lines by \n. 
+
+
+1- 
+
+Write a program that reverses the
+- order of pages
+- order of lines in each page
+- order of words in each line
+- (bonus) order of each word
+
