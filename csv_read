@@ -1,0 +1,7 @@
+Use pandas to read from: https://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_AT_state.csv
+
+File has header: state,year,quarter,hpi
+
+- Calculate the mean by state,year and just state
+- Add a column to calculate the running mean for each state
+
