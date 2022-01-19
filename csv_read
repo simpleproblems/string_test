@@ -5,3 +5,6 @@ File has header: state,year,quarter,hpi
 - Calculate the mean by state,year and just state
 - Add a column to calculate the running mean for each state
 
+use: https://trinket.io/python3
+
+
