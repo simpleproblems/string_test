@@ -1,0 +1,9 @@
+import numpy as np 
+size=int(1e6)
+
+floats = np.random.uniform(size=size)
+sum1= floats.sum()
+
+np.random.shuffle(floats)
+
+sum2= floats.sum()
