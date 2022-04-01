@@ -1,6 +1,8 @@
-Given a nested list with arbitrary level of nesting, write a function to flatten it.
+Given a nested list with arbitrary level of nesting, write a function, flatten to flatten it.
 
 sample input = [[4,5],[[1,2,3]],6]
+
+flatten(x) --> [4,5,1,2,3,6]
 
 Use: https://www.online-python.com or any IDE you have.
 
