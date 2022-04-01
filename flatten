@@ -1,4 +1,4 @@
-Given a nested list with arbitrary level of nesting, write a program to flatten it.
+Given a nested list with arbitrary level of nesting, write a function to flatten it.
 
 sample input = [[4,5],[[1,2,3]],6]
 
