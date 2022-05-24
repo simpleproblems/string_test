@@ -8,5 +8,5 @@ np.random.shuffle(floats)
 
 sum2= floats.sum()
 
-#print(sum1 == sum2)
-#print(f"{sum1}\n{sum2}")
+print(sum1 == sum2)
+print(f"{sum1}\n{sum2}")
